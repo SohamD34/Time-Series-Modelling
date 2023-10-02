@@ -3,10 +3,10 @@
 - Focus on ARIMA models used for analysis and prediction of stationary time series.
 
 ## Outline
-1. Theory
-a. Stationarity
-b. Differencing
-c. Random Walk Model
+1. Theory - 
+- Stationarity
+- Differencing
+- Random Walk Model
 
 ## Reference links
 1. https://otexts.com/fpp2/arima.html
