@@ -4,9 +4,9 @@
 
 ## Outline
 1. Theory
-   a. Stationarity
-   b. Differencing
-   c. Random Walk Model
+a. Stationarity
+b. Differencing
+c. Random Walk Model
 
 ## Reference links
 1. https://otexts.com/fpp2/arima.html
