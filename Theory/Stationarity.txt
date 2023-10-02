@@ -4,3 +4,5 @@ A stationary time series is one whose properties do not depend on the time at wh
 - In general, a stationary time series will have no predictable patterns in the long-term. Time plots will show the series to be roughly horizontal (although some cyclic behaviour is possible), with constant variance.
 
 For eg., a white noise series is stationary — it does not matter when you observe it, it should look much the same at any point in time.
+
+For a stationary time series, the ACF will drop to zero relatively quickly, while the ACF of non-stationary data decreases slowly.
