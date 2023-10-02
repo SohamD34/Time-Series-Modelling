@@ -1,0 +1,4 @@
+Suppose a time series is not stationary, but the changes in the values on a daily basis are stationary. 
+One way to make a non-stationary time series stationary — compute the differences between consecutive observations. This is known as "differencing".
+
+- Differencing can help stabilise the mean of a time series by removing changes in the level of a time series, and therefore eliminating (or reducing) trend and seasonality.
