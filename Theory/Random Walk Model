@@ -1,0 +1,8 @@
+- We can find the differenced series by finding the change betweeen consecutive observations in the original time series.
+-                 y1(t) = y(t) - y(t-1)
+- The difference series will have only (T-1) values.
+- When the differenced series is white noise, the model can be written as -
+-                 y(t) - y(t-1) = e(t)
+- where e(t) represents white noise.
+- Rearranging the eqaution gives us the random walk model - 
+-                 y(t) = y(t-1) + e(t)
