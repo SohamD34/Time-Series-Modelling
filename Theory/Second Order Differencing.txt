@@ -1,0 +1,6 @@
+Occasionally the differenced data will not appear to be stationary and it may be necessary to difference the data a second time to obtain a stationary series.
+              y"(t) = y'(t) - y'(t-1)
+                    = [y(t) - y(t-1)] - [y(t-1) - y(t-2)]
+                    = y(t) - 2y(t-1) + y(t-2)
+
+We would model the “change in the changes” of the original data. In practice, it is almost never necessary to go beyond second-order differences.
