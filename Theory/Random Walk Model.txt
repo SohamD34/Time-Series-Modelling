@@ -7,3 +7,10 @@ where e(t) represents white noise.
 
 Rearranging the eqaution gives us the random walk model - 
                  y(t) = y(t-1) + e(t)
+
+Closely related model - the mean of ther error values will not be 0. It will be some constant 'c'.
+So e(t) = c + e(t).
+
+                 y(t) = y(t-1) + c + e(t)
+
+The value of c is the average of the changes between consecutive observations.
