@@ -8,4 +8,5 @@ The backward shift operator is convenient for describing the process of differen
                   y'(t) = (1-B)y(t)
                   y"(t) = ((1-B)^n)y(t)
 
-Backshift notation is particularly useful when combining differences, as the operator can be treated using ordinary algebraic rules. In particular, terms involving B can be multiplied together.
+Backshift notation is particularly useful when combining differences, as the operator can be treated using ordinary algebraic rules. 
+In particular, terms involving B can be multiplied together.
