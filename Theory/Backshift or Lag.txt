@@ -1,0 +1,11 @@
+The backward shift operator B is a useful notational device when working with time series lags:
+                  B(y(t)) = y(t-1)
+                  B(B(y(t))) = B(y(t-1) = y(t-2)
+Similarly, we get the general expression,
+                  (B^n)(y(t)) = y(t-n)
+
+The backward shift operator is convenient for describing the process of differencing. A first difference can be written as
+                  y'(t) = (1-B)y(t)
+                  y"(t) = ((1-B)^n)y(t)
+
+Backshift notation is particularly useful when combining differences, as the operator can be treated using ordinary algebraic rules. In particular, terms involving B can be multiplied together.
