@@ -6,7 +6,12 @@
 1. Theory - 
 - Stationarity
 - Differencing
-- Random Walk Model
+
+2. Models
+- AR
+- MA
+- ARMA
+- ARIMA
 
 ## Reference links
 1. https://otexts.com/fpp2/arima.html
